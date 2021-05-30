@@ -1,3 +1,5 @@
-# fun
-Just fun projects
-endproblem.py is to use on a friends computer if it is not working and their screen gets spammed with text
+#FUN
+
+This is a folder for fun projects that I have created
+
+They are going to mainly be in python but maybe some html
