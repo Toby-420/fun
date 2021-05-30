@@ -1,4 +1,4 @@
-#FUN
+FUN
 
 This is a folder for fun projects that I have created
 
